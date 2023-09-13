@@ -1,6 +1,6 @@
 from vima.transformer import ViTransformerWrapper, Encoder
 
-class ImageEncoder:
+class VisionEncoder:
     # # Usage:
     # image_encoder = ImageEncoder()
     # img_embeddings = image_encoder.embed_image_data([img1, img2])  # You'd provide your list of image data here.
